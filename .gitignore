@@ -1,0 +1,13 @@
+answer/
+mutual/
+prompt/
+__pycache__/
+*.txt
+*.png
+ace2005-en/
+case.py
+parse.py
+syntactic.py
+train/
+openie/
+
